@@ -131,8 +131,5 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 * Support for additional payment gateways.
 * Real-time notifications for booking updates.
   
-## 👥 Contributors
-* Pasith Nishshanka(https://github.com/pasithNishshanka)
-* Dinesh Hashan(https://github.com/KDHBuddhika)
-* Kavindu Kaveesha(https://github.com/kavindukaveesha)
+
 
