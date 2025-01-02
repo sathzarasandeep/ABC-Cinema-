@@ -66,13 +66,10 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kavindukaveesha/Movie_Booking_Project002.git
-2. Import the project into your IDE.
-3. Configure the database.properties file with your MySQL credentials.
-4. Run the SQL scripts in the database/ folder to create necessary tables.
-5. Build the project using Maven:
+1. Import the project into your IDE.
+2. Configure the database.properties file with your MySQL credentials.
+3. Run the SQL scripts in the database/ folder to create necessary tables.
+4. Build the project using Maven:
 * bash
 * Copy code
 * mvn clean install
