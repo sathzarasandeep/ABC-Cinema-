@@ -7,13 +7,8 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 ## 📜 Table of Contents
 - [✨ Features](#-features)
 - [🛠️ Technologies Used](#️-technologies-used)
-- [🚀 Getting Started](#-getting-started)
 - [📖 User Flow](#-user-flow)
-- [📷 Screenshots](#-screenshots)
 - [🔒 Admin Panel](#-admin-panel)
-- [⚙️ Setup Instructions](#️-setup-instructions)
-- [🌟 Future Enhancements](#-future-enhancements)
-- [👥 Contributors](#-contributors)
 
 ---
 
