@@ -2,7 +2,7 @@ package com.example.movie_booking.config;
 public class AppConfig {
 
     // Path to store or retrieve DB images
-    public static final String DB_IMAGES_PATH = "/Users/kavindu/Developer/Software Enginner/Movie_Booking_Project002/movie_booking/src/main/webapp/DBImages";
+    public static final String DB_IMAGES_PATH = "/D/GroupO/Developer/Movie_Booking_Project002/movie_booking/src/main/webapp/DBImages";
 
     // Client ID for authentication or API integration
     public static final String CLIENT_ID = "AcBk9dLkpOpHoeL4SIYXUBolsRxvQ6Jicd0YAHa7kFQoe_y4vq63ORk-R4y_aLRyDAYhAypI2wnIRw7h";
