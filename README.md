@@ -72,20 +72,7 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 * Monitor Bookings: View active and past bookings.
 8 Manage Users: View and manage all registered users.
   
-## ⚙️ Setup Instructions
-* Configure Database:
-* Import the database schema from the database/schema.sql file.
 
-## Setup Email Service:
-* Configure the mail.properties file with your SMTP credentials.
-
-## Start the Server:
-* Deploy the WAR file to Tomcat and access the application at:
-
-*bash
-*Copy code
-*http://localhost:8080/movie-booking-system
-*(Adjust port and context path if needed.)
 
 
 
