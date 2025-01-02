@@ -56,24 +56,8 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Java Development Kit (JDK) 8 or higher
-- Apache Maven
-- MySQL Database
-- Apache Tomcat Server
 
-### Installation
-
-1. Import the project into your IDE.
-2. Configure the database.properties file with your MySQL credentials.
-3. Run the SQL scripts in the database/ folder to create necessary tables.
-4. Build the project using Maven:
-* bash
-* Copy code
-* mvn clean install
-* Deploy the WAR file to Tomcat.
 
 ## 📖 User Flow
 * Browse Movies: Home page lists featured movies.
@@ -85,20 +69,6 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 * Receive Confirmation: Booking confirmation email is sent.
 * Manage Account: Reset password or update profile via email verification.
   
-## 📷 Screenshots
-* 🏠 Home Page
-
-
-* 🎞️ Movie Details
-
-
-* 🎟️ Seat Booking
-
-
-* 🛒 Checkout
-  
-
-* 📊 Admin Dashboard
 
 
 ##🔒 Admin Panel
@@ -122,11 +92,5 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 *http://localhost:8080/movie-booking-system
 *(Adjust port and context path if needed.)
 
-## 🌟 Future Enhancements
-* Mobile-friendly responsive design.
-* Enhanced admin analytics dashboard.
-* Support for additional payment gateways.
-* Real-time notifications for booking updates.
-  
 
 
